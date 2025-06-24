@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Creational Design Patterns in C#*](https://www.link.springer.com/book/10.1007/979-8-8688-1567-6) by Vaskaran Sarcar (Apress, 2025).
+This repository accompanies [*Creational Design Patterns in C#*](https://www.link.springer.com/book/10.1007/979-8-8688-1566-9) by Vaskaran Sarcar (Apress, 2025).
 
 [comment]: #cover
 ![Cover image](979-8-8688-1566-9.jpg)
