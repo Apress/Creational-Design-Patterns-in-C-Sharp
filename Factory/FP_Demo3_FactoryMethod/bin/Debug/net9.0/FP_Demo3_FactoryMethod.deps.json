@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FP_Demo3_FactoryMethod/1.0.0": {
+        "dependencies": {
+          "FactoryMethodLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FP_Demo3_FactoryMethod.dll": {}
+        }
+      },
+      "FactoryMethodLibrary/1.0.0": {
+        "dependencies": {
+          "VehicleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FactoryMethodLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VehicleLibrary/1.0.0": {
+        "runtime": {
+          "VehicleLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FP_Demo3_FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryMethodLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\bin\Debug\net9.0\PP_Demo1.exe
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\bin\Debug\net9.0\PP_Demo1.deps.json
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\bin\Debug\net9.0\PP_Demo1.runtimeconfig.json
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\bin\Debug\net9.0\PP_Demo1.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\bin\Debug\net9.0\PP_Demo1.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\obj\Debug\net9.0\PP_Demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\obj\Debug\net9.0\PP_Demo1.AssemblyInfoInputs.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\obj\Debug\net9.0\PP_Demo1.AssemblyInfo.cs
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\obj\Debug\net9.0\PP_Demo1.csproj.CoreCompileInputs.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\obj\Debug\net9.0\PP_Demo1.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\obj\Debug\net9.0\refint\PP_Demo1.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\obj\Debug\net9.0\PP_Demo1.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\obj\Debug\net9.0\PP_Demo1.genruntimeconfig.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Prototype\PP_Demo1\obj\Debug\net9.0\ref\PP_Demo1.dll

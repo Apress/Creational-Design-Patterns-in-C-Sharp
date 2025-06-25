@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "VehicleLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/VehicleLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VehicleLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleLibrary/1.0.0": {
+      "type": "project",
+      "path": "../VehicleLibrary/VehicleLibrary.csproj",
+      "msbuildProject": "../VehicleLibrary/VehicleLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "VehicleLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\MyBooks\\Apress\\ReviewProcess-CreationalDesignPatterns\\SourceCode\\CreationalDesignPatterns\\Factory\\SimpleFactoryLibrary\\SimpleFactoryLibrary.csproj",
+      "projectName": "SimpleFactoryLibrary",
+      "projectPath": "D:\\MyBooks\\Apress\\ReviewProcess-CreationalDesignPatterns\\SourceCode\\CreationalDesignPatterns\\Factory\\SimpleFactoryLibrary\\SimpleFactoryLibrary.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "D:\\MyBooks\\Apress\\ReviewProcess-CreationalDesignPatterns\\SourceCode\\CreationalDesignPatterns\\Factory\\SimpleFactoryLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "D:\\MyBooks\\Apress\\ReviewProcess-CreationalDesignPatterns\\SourceCode\\CreationalDesignPatterns\\Factory\\VehicleLibrary\\VehicleLibrary.csproj": {
+              "projectPath": "D:\\MyBooks\\Apress\\ReviewProcess-CreationalDesignPatterns\\SourceCode\\CreationalDesignPatterns\\Factory\\VehicleLibrary\\VehicleLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

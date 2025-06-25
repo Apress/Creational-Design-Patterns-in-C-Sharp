@@ -1,0 +1,15 @@
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\bin\Debug\net9.0\SimpleFactoryLibrary.deps.json
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\bin\Debug\net9.0\SimpleFactoryLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\bin\Debug\net9.0\SimpleFactoryLibrary.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\bin\Debug\net9.0\VehicleLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\bin\Debug\net9.0\VehicleLibrary.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\SimpleFactoryLibrary.csproj.AssemblyReference.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\SimpleFactoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\SimpleFactoryLibrary.AssemblyInfoInputs.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\SimpleFactoryLibrary.AssemblyInfo.cs
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\SimpleFactoryLibrary.csproj.CoreCompileInputs.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\SimpleFa.63E31A91.Up2Date
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\SimpleFactoryLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\refint\SimpleFactoryLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\SimpleFactoryLibrary.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\SimpleFactoryLibrary\obj\Debug\net9.0\ref\SimpleFactoryLibrary.dll

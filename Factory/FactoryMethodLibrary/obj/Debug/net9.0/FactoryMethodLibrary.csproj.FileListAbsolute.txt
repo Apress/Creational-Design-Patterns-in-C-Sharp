@@ -1,0 +1,15 @@
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\bin\Debug\net9.0\FactoryMethodLibrary.deps.json
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\bin\Debug\net9.0\FactoryMethodLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\bin\Debug\net9.0\FactoryMethodLibrary.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\bin\Debug\net9.0\VehicleLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\bin\Debug\net9.0\VehicleLibrary.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\FactoryMethodLibrary.csproj.AssemblyReference.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\FactoryMethodLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\FactoryMethodLibrary.AssemblyInfoInputs.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\FactoryMethodLibrary.AssemblyInfo.cs
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\FactoryMethodLibrary.csproj.CoreCompileInputs.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\FactoryM.A60E3A81.Up2Date
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\FactoryMethodLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\refint\FactoryMethodLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\FactoryMethodLibrary.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\FactoryMethodLibrary\obj\Debug\net9.0\ref\FactoryMethodLibrary.dll

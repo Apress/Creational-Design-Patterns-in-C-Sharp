@@ -1,0 +1,11 @@
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\bin\Debug\net9.0\VehicleLibrary.deps.json
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\bin\Debug\net9.0\VehicleLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\bin\Debug\net9.0\VehicleLibrary.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\obj\Debug\net9.0\VehicleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\obj\Debug\net9.0\VehicleLibrary.AssemblyInfoInputs.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\obj\Debug\net9.0\VehicleLibrary.AssemblyInfo.cs
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\obj\Debug\net9.0\VehicleLibrary.csproj.CoreCompileInputs.cache
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\obj\Debug\net9.0\VehicleLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\obj\Debug\net9.0\refint\VehicleLibrary.dll
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\obj\Debug\net9.0\VehicleLibrary.pdb
+D:\MyBooks\Apress\ReviewProcess-CreationalDesignPatterns\SourceCode\CreationalDesignPatterns\Factory\VehicleLibrary\obj\Debug\net9.0\ref\VehicleLibrary.dll
